@@ -22,6 +22,6 @@ echo "歩数: {$steps}歩";
 function getRouteDistanceFromAPI() {
     // マップAPIを使用してルートの距離を取得する処理を実装する
     // ここでは仮の値として5000メートルを返す
-    return 8000;
+    return 80000;
 }
 ?>
